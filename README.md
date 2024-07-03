@@ -71,3 +71,10 @@ Use the following example messages to test the application:
 2. "You won 2 free tickets to the Super Bowl."
 3. "You won 2 free tickets to the Super Bowl. Text us to claim your prize."
 4. Thanks for registering. Text 4343 to receive free updates on medicare."
+
+## Example Outputs
+![Example of the Gradio Interface](images/blankexample.png)
+
+![Spam Example](images/spam.png)
+
+![Not Spam Example](images/notspam.png)
